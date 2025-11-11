@@ -2,3 +2,12 @@
 a.active {
     font-weight: bold;
 }
+h5.card-title {
+    color: #C1121F;
+}
+p {
+    color: #669BBC;
+}
+h6.card-subtitle mb-2 text-body-secondary {
+    color: #ee6060;
+}
